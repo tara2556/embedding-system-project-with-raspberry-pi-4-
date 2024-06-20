@@ -23,4 +23,4 @@
         |   ├── HR8825.py 
         |   └──  main.py
         |               
-        README.md  #Record the code structure       
+        └──README.md  #Record the code structure       
