@@ -1,0 +1,45 @@
+item {
+  id: 1
+  name: 'Brick'
+}
+
+item {
+  id: 2
+  name: 'Peg'
+}
+
+item {
+  id: 3
+  name: 'Plate'
+}
+
+item {
+  id: 4
+  name: 'Roof Tile'
+}
+
+item {
+  id: 5
+  name: 'Round Brick'
+}
+
+item {
+  id: 6
+  name: 'Technic Brick'
+}
+
+item {
+  id: 7
+  name: 'Beam'
+}
+
+item {
+  id: 8
+  name: 'Cross Block Fork'
+}
+
+item {
+  id: 9
+  name: 'Flat Tile Round'
+}
+
