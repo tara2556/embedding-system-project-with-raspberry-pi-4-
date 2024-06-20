@@ -1,9 +1,0 @@
-Brick
-Peg
-Plate
-Roof Tile
-Round Brick
-Technic Brick
-Beam
-Cross Block Fork
-Flat Tile Round
