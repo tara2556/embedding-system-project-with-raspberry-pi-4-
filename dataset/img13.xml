@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img13.jpg</filename>
+	<path>E:\nycu\embedding_system\final_project\images\img13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Roof Tile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>88</ymin>
+			<xmax>322</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

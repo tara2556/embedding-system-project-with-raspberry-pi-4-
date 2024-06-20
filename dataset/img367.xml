@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img367.jpg</filename>
+	<path>E:\nycu\embedding_system\final_project\images\img367.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>166</ymin>
+			<xmax>268</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

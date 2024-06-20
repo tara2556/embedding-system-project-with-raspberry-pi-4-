@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img10.jpg</filename>
+	<path>E:\nycu\embedding_system\final_project\images\img10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cross Block Fork</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>68</ymin>
+			<xmax>279</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

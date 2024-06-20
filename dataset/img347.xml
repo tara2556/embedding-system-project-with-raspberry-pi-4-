@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>img347.jpg</filename>
+	<path>E:\nycu\embedding_system\final_project\images\img347.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Flat Tile Round</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>118</ymin>
+			<xmax>280</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
